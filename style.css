@@ -1,0 +1,56 @@
+.b{
+    background-image: url("chosen/back.jpg");
+    background-size: 100%;
+    position: absolute;
+
+}
+#grid {
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 150px;
+    position: absolute;
+
+}
+
+#score {
+    margin-top: 5px;
+    margin-left: 1200px;
+    position: absolute;
+    color: rgb(255, 0, 0);
+}
+
+.hidden{
+    visibility: hidden;
+}
+
+.menu {
+    width: 500px;
+    height: 60px;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Arial";
+    border: none;
+    border-radius: 30px;
+    border-style: solid;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 30px;
+    position: absolute;
+}
+.menu:hover{
+    background-color: rgb(0, 255, 21);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: 0.5;
+}
+
+.mn{
+    margin-top: 200px;
+    margin-left: 350px;
+    visibility: hidden;
+}

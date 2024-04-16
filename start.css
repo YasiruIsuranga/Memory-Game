@@ -1,0 +1,85 @@
+.b {
+    background-image: url(chosen/crew.jpg);
+    background-size: 100%;
+    background-position-y: -30px;
+    position: absolute;
+}
+
+.btn1 {
+    width: 500px;
+    height: 60px;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Arial";
+    border: none;
+    border-radius: 30px;
+    border-style: solid;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 400px;
+    position: absolute;
+}
+.btn1:hover{
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: 0.5;
+}
+
+.txt {
+    margin-top: 250px;
+    margin-left: 570px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+}
+
+.btn2 {
+    width: 500px;
+    height: 60px;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Arial";
+    border: none;
+    border-radius: 30px;
+    border-style: solid;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 400px;
+    position: absolute;
+}
+.btn2:hover{
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: 0.5;
+}
+
+.btn3 {
+    width: 500px;
+    height: 60px;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Arial";
+    border: none;
+    border-radius: 30px;
+    border-style: solid;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 400px;
+    position: absolute;
+}
+.btn3:hover{
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: 0.5;
+}
